@@ -41,3 +41,23 @@ Features
 
 6. Installation & Setup
 - Clone the Repository
+- https://github.com/mohamedjahid98/mohamedjahid98-React-Nodejs-MySQL-Task.git or Dowload Zip folder
+- open folder in Vscode
+- separately ui-react and api-nodejs cmd for terminal yarn or npm install
+- open MySQL Create Database for jtest
+  - Backend api-nodejs:
+  - open terminal run cmd npx prisma migrate dev
+  - Then next yarn start or npm start
+  - Frontend ui-react:
+  -  open terminal yarn start or npm start
+
+7. API Endpoints
+- Authentication Routes
+  - POST /api/auth/register → Register a new user
+  - POST /api/auth/login → Login and get JWT token
+- Customer Routes
+  - GET /api/customer → Get all customer
+  - GET /api/customer/:id → Get customer by Id
+  - POST /api/customer → Add a new customer
+  - PUT /api/customer/:id → Update customer details
+  - DELETE /api/customer/:id → Delete a customer
