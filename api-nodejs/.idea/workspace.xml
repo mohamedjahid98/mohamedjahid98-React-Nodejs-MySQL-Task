@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41ff813c-7fd4-4862-8b10-f5550415f14e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pyb73LpD7m9kMkkiharqQCIKmV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41ff813c-7fd4-4862-8b10-f5550415f14e" name="Changes" comment="" />
+      <created>1733741091317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733741091317</updated>
+    </task>
+    <task id="LOCAL-00001" summary="- Schema&#10;- DB Connection String">
+      <option name="closed" value="true" />
+      <created>1733836934040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733836934040</updated>
+    </task>
+    <task id="LOCAL-00002" summary="API Routes Controller and schemas&#10;&#10;- Auth&#10;- BookingType&#10;- CalenderSetting&#10;- Country&#10;- Currency&#10;- Customer&#10;- Employee&#10;- EmployeeType&#10;- EventType&#10;- ExpenseType&#10;- HallDetails&#10;- PaymentMode&#10;- PaymentType&#10;- Role&#10;- Scopes&#10;- Service&#10;- State&#10;- Supplier&#10;- Tax">
+      <option name="closed" value="true" />
+      <created>1733912210137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733912210137</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Removed Old version code">
+      <option name="closed" value="true" />
+      <created>1733912691036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733912691036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Added required field in schema&#10;- Updated Employee, Service Controller">
+      <option name="closed" value="true" />
+      <created>1733988250049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733988250049</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- Updated Pagination and GetAll functionality">
+      <option name="closed" value="true" />
+      <created>1734009089032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734009089033</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- Updated Controller functionality">
+      <option name="closed" value="true" />
+      <created>1734071802049</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734071802049</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Schema&#10;- DB Connection String" />
+    <MESSAGE value="API Routes Controller and schemas&#10;&#10;- Auth&#10;- BookingType&#10;- CalenderSetting&#10;- Country&#10;- Currency&#10;- Customer&#10;- Employee&#10;- EmployeeType&#10;- EventType&#10;- ExpenseType&#10;- HallDetails&#10;- PaymentMode&#10;- PaymentType&#10;- Role&#10;- Scopes&#10;- Service&#10;- State&#10;- Supplier&#10;- Tax" />
+    <MESSAGE value="- Removed Old version code" />
+    <MESSAGE value="- Added required field in schema&#10;- Updated Employee, Service Controller" />
+    <MESSAGE value="- Updated Pagination and GetAll functionality" />
+    <MESSAGE value="- Updated Controller functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Updated Controller functionality" />
+  </component>
+</project>

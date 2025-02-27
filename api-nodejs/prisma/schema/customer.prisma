@@ -1,0 +1,15 @@
+model Customer {
+  id                   Int     @id @default(autoincrement())
+  customerName         String
+  contactNo            String
+  alternativeContactNo String?
+  email                String?
+  addressLine1         String?
+  addressLine2         String?
+  addressLine3         String?
+  stateId              String?
+  countryId            String?
+  postalCode           String?
+  isDeleted            Boolean @default(false)
+
+}
