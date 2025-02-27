@@ -1,4 +1,4 @@
-React-Node.js-MySQL Task with JWT Authentication
+## React-Node.js-MySQL Task with JWT Authentication
 
 Project Overview
 
